@@ -4,7 +4,7 @@
 
 This repository contains the collection of scripts and workflows used to implement the leader-follower analysis presented in the manuscript "**Inferring leader-follower dynamics in three shark species using acoustic telemetry data**" by Nils Kreuter, Juan Fernández-Gracia, Víctor M. Eguíluz and Ana M. M. Sequeira published in Movement Ecology (2025).
 
-## Scripts in this repository {#scripts-in-this-repository}
+## Scripts in this repository
 
 -   **Leader_follower_method.py** : Main script to run the analysis. It calls all dependencies automatically. Only script the user needs to work with. Contains parameters for the analysis that the user needs to adjust.
 -   **Leader_follower_KS** : Folder containing the python package and and functionalities used by the Leader_follower_method.py .
@@ -127,3 +127,4 @@ Adjust the edge size in the main leader-follower script by adjusting the numeric
 # Acknowledgement
 
 Data was sourced from Australia’s Integrated Marine Observing System (IMOS) Animal Tracking Database ([https://animaltracking.aodn.org.au).](https://animaltracking.aodn.org.au).) IMOS is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS). It is operated by a consortium of institutions as an unincorporated joint venture, with the University of Tasmania as Lead Agent. We acknowledge support from an ARC DP210103091 (awarded to A.M.M.S. and V.M.E.). The "Spangled Emperor at Heron Island" receiver array was made possible by fellowship DE120102459 from the Australian Research Council awarded to Alastair Harborne. We would like to thank Alastair Harborne and Michelle Heupel for their valuable feedback on the manuscript and thank all members of the “IMOS-ATF One Tree Island", "IMOS-ATF Heron Island" and "Spangled Emperor at Heron Island" projects for their work and their contribution to this study by making their data publicly available.
+
