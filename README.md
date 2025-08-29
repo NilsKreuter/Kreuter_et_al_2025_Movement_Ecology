@@ -1,8 +1,10 @@
 # Leader - follower analysis for acoustic telemetry data
 
+[![DOI](https://zenodo.org/badge/1029815189.svg)](https://doi.org/10.5281/zenodo.16993185)
+
 ## Overview
 
-This repository contains the collection of scripts and workflows used to implement the leader-follower analysis presented in the manuscript "**Inferring leader-follower dynamics in three shark species using acoustic telemetry data**" by Nils Kreuter, Juan Fernández-Gracia, Víctor M. Eguíluz and Ana M. M. Sequeira published in Movement Ecology (2025).
+This repository contains the collection of scripts and workflows used to implement the leader-follower analysis presented in the manuscript ["**Inferring leader-follower dynamics in three shark species using acoustic telemetry data**" by Nils Kreuter, Juan Fernández-Gracia, Víctor M. Eguíluz and Ana M. M. Sequeira published in Movement Ecology (2025)](https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-025-00589-8).
 
 ## Scripts in this repository
 
@@ -127,4 +129,5 @@ Adjust the edge size in the main leader-follower script by adjusting the numeric
 # Acknowledgement
 
 Data was sourced from Australia’s Integrated Marine Observing System (IMOS) Animal Tracking Database ([https://animaltracking.aodn.org.au).](https://animaltracking.aodn.org.au).) IMOS is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS). It is operated by a consortium of institutions as an unincorporated joint venture, with the University of Tasmania as Lead Agent. We acknowledge support from an ARC DP210103091 (awarded to A.M.M.S. and V.M.E.). The "Spangled Emperor at Heron Island" receiver array was made possible by fellowship DE120102459 from the Australian Research Council awarded to Alastair Harborne. We would like to thank Alastair Harborne and Michelle Heupel for their valuable feedback on the manuscript and thank all members of the “IMOS-ATF One Tree Island", "IMOS-ATF Heron Island" and "Spangled Emperor at Heron Island" projects for their work and their contribution to this study by making their data publicly available.
+
 
